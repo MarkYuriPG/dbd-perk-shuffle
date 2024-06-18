@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dbd-perk-shuffle/static/css/main.11871613.css",
+    "main.js": "/dbd-perk-shuffle/static/js/main.4f72e825.js",
+    "static/js/453.af4efae7.chunk.js": "/dbd-perk-shuffle/static/js/453.af4efae7.chunk.js",
+    "index.html": "/dbd-perk-shuffle/index.html",
+    "main.11871613.css.map": "/dbd-perk-shuffle/static/css/main.11871613.css.map",
+    "main.4f72e825.js.map": "/dbd-perk-shuffle/static/js/main.4f72e825.js.map",
+    "453.af4efae7.chunk.js.map": "/dbd-perk-shuffle/static/js/453.af4efae7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11871613.css",
+    "static/js/main.4f72e825.js"
+  ]
+}
